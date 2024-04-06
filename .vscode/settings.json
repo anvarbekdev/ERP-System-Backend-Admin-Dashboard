@@ -1,0 +1,11 @@
+{
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"git.enabled": true,
+	"eslint.lintTask.enable": false,
+	"git.alwaysSignOff": false,
+	"git.enableSmartCommit": false,
+	"git.enableCommitSigning": false
+}
