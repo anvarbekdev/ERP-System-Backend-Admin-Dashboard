@@ -3,11 +3,11 @@
 <div>    <div
       style="display: flex; justify-items: center; gap: 4px; margin-bottom: 4px"
     >
-      Portfolio
+      My blog
       <a
         style="display: flex; justify-items: center; gap: 4px"
         target="_blank"
-        href="https://tonicdev7.netlify.app"
+        href="https://anvarbekblog.vercel.app"
       >
         <img
           src="https://cdn-icons-png.flaticon.com/128/3308/3308395.png"
@@ -16,7 +16,7 @@
           width="22"
           height="22"
         />
-        https://tonicdev7.netlify.app</a
+      https://anvarbekblog.vercel.app</a
       >
     </div>
     <div
@@ -26,7 +26,7 @@
       <a
         target="_blank"
         style="display: flex; justify-items: center; gap: 4px"
-        href="https://linkedin.com/tonicdev07"
+        href="https://linkedin.com/anvarbekdev"
       >
         <img
           src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"
@@ -34,7 +34,7 @@
           width="22"
           height="22"
         />
-        https://linkedin.com/tonicdev07</a
+        https://linkedin.com/anvarbekdev</a
       >
     </div>
     <div
@@ -44,7 +44,7 @@
       <a
         target="_blank"
         style="display: flex; justify-items: center; gap: 4px"
-        href="https://youtube.com/@tonicdev07"
+        href="https://youtube.com/@anvarbekdev"
       >
         <img
           src="https://cdn-icons-png.flaticon.com/128/3670/3670147.png"
@@ -52,7 +52,7 @@
           width="22"
           height="22"
         />
-        https://youtube.com/@tonicdev07</a
+        https://youtube.com/@anvarbekdev</a
       >
     </div>
     <div
@@ -62,7 +62,7 @@
       <a
         target="_blank"
         style="display: flex; justify-items: center; gap: 4px"
-        href="https://github.com/tonicdev09"
+        href="https://github.com/anvarbekdev"
       >
         <img
           src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png"
@@ -70,7 +70,7 @@
           width="22"
           height="22"
         />
-        https://github.com/tonicdev09</a
+        https://github.com/anvarbekdev</a
       >
     </div>
     <div
@@ -80,7 +80,7 @@
       <a
         target="_blank"
         style="display: flex; justify-items: center; gap: 4px"
-        href="https://facebook.com/tonicdev07"
+        href="https://facebook.com/anvarbekdev"
       >
         <img
           src="https://cdn-icons-png.flaticon.com/128/733/733547.png"
@@ -88,10 +88,10 @@
           width="22"
           height="22"
         />
-        https://facebook.com/tonicdev07</a
+        https://facebook.com/anvarbekdev</a
       >
     </div></div><br> <br>
-    <h3><a href="https://github.com/tonicdev09/ERP-System-Api" style="font-size: 32px">Go to the client</a></h3>
+    <h3><a href="https://github.com/anvarbekdev/ERP-System-Api" style="font-size: 32px">Go to the client</a></h3>
 <div>  
     <h1><a target="_blank" href="https://youtu.be/xYtqmYZ-kDQ" style="font-size: 32px">Demo</a></h1>
 </div>
